@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #e5e5e5;
+  padding: 8px;
+}
+
+#resultado {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#tabela-planos table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+#tabela-planos th, #tabela-planos td {
+  border: 1px solid #000000;
+  padding: 8px;
+  text-align: center;
+}
+
+#tabela-planos th {
+  background-color: #0b74dc;
+}
+
+.text-center {
+  background-color: #0b74dc;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
